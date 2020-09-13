@@ -1,7 +1,4 @@
 # NBA_Machine_Learning
-A machine learning model to predict NBA 2k data
-# Summary
-
 **Goal**: 
 To implement web scraping to extract data and then evaluate both supervised (```Linear Regression```, ```Logistic Regression```) and unsupervised machine learning classifiers (```KMeans Clustering```) in their success in predicting NBA 2K video game scores the deaths of Game of Thrones characters using data from the book series.
 
